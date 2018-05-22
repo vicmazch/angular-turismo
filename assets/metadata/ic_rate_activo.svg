@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1558 1103.622 18.224 18.224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #afe1fa;
+        stroke: #ccc;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="ic_star_rate_black_18px_1_" data-name="ic_star_rate_black_18px (1)" transform="translate(1558 1103.622)">
+    <path id="Path_4564" data-name="Path 4564" class="cls-1" d="M9.075,11.409l3.756,2.734L11.393,9.729l3.756-2.673H10.543L9.075,2.5,7.607,7.056H3L6.756,9.729,5.318,14.143Z" transform="translate(0.037 0.031)"/>
+    <path id="Path_4565" data-name="Path 4565" class="cls-2" d="M0,0H18.224V18.224H0Z"/>
+  </g>
+</svg>

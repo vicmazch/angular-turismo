@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10596.086 710.819 32.16 55.361">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_245" data-name="Group 245" transform="translate(9950)">
+    <g id="Group_166" data-name="Group 166" transform="translate(3.483 636.554)">
+      <g id="Group_165" data-name="Group 165" transform="translate(642.602 74.266)">
+        <g id="smartphone-call" transform="translate(0)">
+          <path id="Path_416" data-name="Path 416" class="cls-1" d="M35.755,0H11.073A3.75,3.75,0,0,0,7.334,3.739V51.62a3.751,3.751,0,0,0,3.739,3.741H35.755a3.749,3.749,0,0,0,3.739-3.739V3.739A3.75,3.75,0,0,0,35.755,0ZM19.466,2.7h7.9a.453.453,0,0,1,0,.906h-7.9a.453.453,0,0,1,0-.906Zm3.948,50.8a1.87,1.87,0,1,1,1.87-1.871A1.87,1.87,0,0,1,23.414,53.492Zm13.478-5.051H9.936V5.93H36.892Z" transform="translate(-7.334)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_440" data-name="Path 440" class="cls-1" d="M18.122.741A5.961,5.961,0,0,0,15.215,0a5.89,5.89,0,0,0-4.6,2.165A6,6,0,0,0,0,5.991,6.124,6.124,0,0,0,.3,7.83C1.335,12.457,10.618,18.3,10.618,18.3S19.872,12.457,20.91,7.83a6.281,6.281,0,0,0,.3-1.839A6.025,6.025,0,0,0,18.122.741Z" transform="translate(651.146 730.7)"/>
+  </g>
+</svg>

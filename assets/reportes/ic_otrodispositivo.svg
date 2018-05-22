@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1243 328 18 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a4a9ad;
+      }
+    </style>
+  </defs>
+  <g id="smartphone-dock" transform="translate(1115.5 328)">
+    <g id="dock" transform="translate(127.5)">
+      <path id="Path_695" data-name="Path 695" class="cls-1" d="M130.5,33h12V30h-12Zm12-33h-12a3.009,3.009,0,0,0-3,3V24a3.009,3.009,0,0,0,3,3h12a3.009,3.009,0,0,0,3-3V3A3.009,3.009,0,0,0,142.5,0Zm0,21h-12V6h12Z" transform="translate(-127.5)"/>
+    </g>
+  </g>
+</svg>

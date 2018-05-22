@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1526.086 76.819 32.16 55.361">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_71" data-name="Group 71" transform="translate(883.484 2.554)">
+    <g id="Group_70" data-name="Group 70" transform="translate(642.602 74.266)">
+      <g id="smartphone-call" transform="translate(0)">
+        <path id="Path_123" data-name="Path 123" class="cls-1" d="M35.755,0H11.073A3.75,3.75,0,0,0,7.334,3.739V51.62a3.751,3.751,0,0,0,3.739,3.741H35.755a3.749,3.749,0,0,0,3.739-3.739V3.739A3.75,3.75,0,0,0,35.755,0ZM19.466,2.7h7.9a.453.453,0,0,1,0,.906h-7.9a.453.453,0,0,1,0-.906Zm3.948,50.8a1.87,1.87,0,1,1,1.87-1.871A1.87,1.87,0,0,1,23.414,53.492Zm13.478-5.051H9.936V5.93H36.892Z" transform="translate(-7.334)"/>
+      </g>
+      <g id="Group_69" data-name="Group 69" transform="translate(5.399 14.863)">
+        <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-1" cx="5.264" cy="5.264" r="5.264" transform="translate(5.264 0)"/>
+        <path id="Path_124" data-name="Path 124" class="cls-1" d="M11.529,15C8.015,15,1,16.764,1,20.264V22.9H22.057C22.057,16.764,15.043,15,11.529,15Z" transform="translate(-1 -1.839)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11012.086 710.819 32.16 55.361">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #e81e57;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_246" data-name="Group 246" transform="translate(9950)">
+    <g id="Group_164" data-name="Group 164" transform="translate(419.483 636.554)">
+      <g id="Group_163" data-name="Group 163" transform="translate(642.602 74.266)">
+        <g id="smartphone-call" transform="translate(0)">
+          <path id="Path_415" data-name="Path 415" class="cls-1" d="M35.755,0H11.073A3.75,3.75,0,0,0,7.334,3.739V51.62a3.751,3.751,0,0,0,3.739,3.741H35.755a3.749,3.749,0,0,0,3.739-3.739V3.739A3.75,3.75,0,0,0,35.755,0ZM19.466,2.7h7.9a.453.453,0,0,1,0,.906h-7.9a.453.453,0,0,1,0-.906Zm3.948,50.8a1.87,1.87,0,1,1,1.87-1.871A1.87,1.87,0,0,1,23.414,53.492Zm13.478-5.051H9.936V5.93H36.892Z" transform="translate(-7.334)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_178" data-name="Group 178" transform="translate(1057.06 722.753)">
+      <g id="Group_177" data-name="Group 177" transform="translate(6.15 1.435)">
+        <g id="ic_map_black_24px" transform="translate(0 0)">
+          <path id="Path_456" data-name="Path 456" class="cls-1" d="M25.177,3l-.2.038L18.207,5.661,10.6,3,3.456,5.408A.639.639,0,0,0,3,6.016V25.177a.627.627,0,0,0,.634.634l.2-.038L10.6,23.15l7.6,2.661L25.355,23.4a.639.639,0,0,0,.456-.608V3.634A.627.627,0,0,0,25.177,3ZM17.738,23.15,10.6,20.6V5.535l7.134,2.547Z" transform="translate(0.802 0.802)"/>
+          <path id="Path_457" data-name="Path 457" class="cls-2" d="M0,0H30.414V30.414H0Z"/>
+        </g>
+        <path id="Path_458" data-name="Path 458" class="cls-3" d="M1638.748,895.29l-5.3,1.6v15.938l5.3-2.2Z" transform="translate(-1628.295 -888.88)"/>
+        <path id="Path_459" data-name="Path 459" class="cls-3" d="M1643.127,897.788l5.788-2.359v15.4l-5.788,2.175Z" transform="translate(-1623.512 -888.811)"/>
+        <g id="Group_176" data-name="Group 176" transform="translate(9.147 9.147)">
+          <path id="Path_460" data-name="Path 460" class="cls-4" d="M6.512.75A5.762,5.762,0,1,1,.75,6.512,5.762,5.762,0,0,1,6.512.75Z" transform="translate(-0.75 -0.75)"/>
+          <path id="Union_1" data-name="Union 1" class="cls-5" d="M2.857,2.857h0v0h0v0Z" transform="translate(2.905 2.905)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

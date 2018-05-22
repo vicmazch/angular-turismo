@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1485 771 16 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000100;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="calendar_icon" class="cls-1" d="M4660,3460h3v14h-16v-14h3v-1h1v1h8v-1h1Zm-10,1h-2v2h14v-2h-2v1h-1v-1h-8v1h-1Zm-2,12h14v-9h-14Zm2-5v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Zm3-6v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Zm3-6v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Zm3-6v-1h1v1Zm0,2v-1h1v1Zm0,2v-1h1v1Z" transform="translate(-3162 -2688)"/>
+</svg>

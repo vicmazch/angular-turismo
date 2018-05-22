@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3417.641 1448.104 27.845 14.896">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_2195" data-name="Group 2195" transform="translate(3105 1149)">
+    <ellipse id="Ellipse_396" data-name="Ellipse 396" class="cls-1" cx="1.625" cy="1.866" rx="1.625" ry="1.866" transform="translate(315.75 303.442)"/>
+    <path id="Path_5583" data-name="Path 5583" class="cls-2" d="M38.568,15.8H31.937v4.412H44.992V18.321A2.382,2.382,0,0,0,42.8,15.8Zm-7.158,0H30.8a2.382,2.382,0,0,0-2.2,2.521v1.891h2.81Z" transform="translate(291.971 286.251)"/>
+    <path id="Path_5584" data-name="Path 5584" class="cls-1" d="M0,8.1H1.444V23H0Z" transform="translate(312.641 291)"/>
+    <path id="Path_5585" data-name="Path 5585" class="cls-1" d="M0,32.256H1.444v9.176H0Z" transform="translate(339.043 272.568)"/>
+    <rect id="Rectangle_1748" data-name="Rectangle 1748" class="cls-1" width="21.245" height="3.658" transform="translate(315.735 308.553)"/>
+  </g>
+</svg>
